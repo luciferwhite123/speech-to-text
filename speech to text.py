@@ -36,5 +36,7 @@ if __name__ == "__main__":
     while True:
         query = takecommand().lower()
 
+you can add command using if elif print
+
 
 
